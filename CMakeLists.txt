@@ -1,3 +1,3 @@
 cmake_minimum_required(VERSION 3.10)
-project(PES2UG21CS003_hello_world)
+project(PES2UG21CS021_hello_world)
 add_executable(hello_world main.cpp)
